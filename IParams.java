@@ -1,7 +1,7 @@
 package hw2;
 
 import java.util.ArrayList;
-
+     
 public interface IParams {
 
     int getBigPSpace();
